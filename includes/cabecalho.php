@@ -16,10 +16,8 @@
 <body style="background: black; color:white; font-family: Arial;">
     <header>
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
-             <a href="#">
-                <img style="width: 80px; padding: 5px;" src="../imagens/logo.png" width="150" >
-            </a>
-            <div class="container-fluid">  
+
+            <div class="container-fluid">
                 <div class="collapse navbar-collapse " id="navbarNavAltMarkup">
                     <div class="navbar-nav ">
                         <a class="nav-link active" aria-current="page" href="#">Home</a>
@@ -30,11 +28,21 @@
                         <a class="nav-link" href="#">Contato</a>
                     </div>
                 </div>
-            </div> 
+            </div>
         </nav>
-        </header>
-        
-           
+        <div class="container m-2">
+            <div class="row">
+                <div class="col text-center">
+                    <a href="#">
+                        <img style="width: 80px; padding: 5px;" src="../imagem/logo.png" width="150">
+                    </a>
+                    <h2>DAANIEL</h2>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
 </body>
 
 </html>

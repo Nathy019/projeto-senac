@@ -17,7 +17,7 @@
     <header>
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
              <a href="#">
-                <img style="width: 80px; padding: 5px;" src="" width="150" >
+                <img style="width: 80px; padding: 5px;" src="../imagens/logo.png" width="150" >
             </a>
             <div class="container-fluid">  
                 <div class="collapse navbar-collapse " id="navbarNavAltMarkup">

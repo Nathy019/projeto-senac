@@ -16,6 +16,9 @@
 <body style="background: black; color:white; font-family: Arial;">
     <header>
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
+             <a href="#">
+                <img style="width: 80px; padding: 5px;" src="" width="150" >
+            </a>
             <div class="container-fluid">  
                 <div class="collapse navbar-collapse " id="navbarNavAltMarkup">
                     <div class="navbar-nav ">
@@ -29,13 +32,8 @@
                 </div>
             </div> 
         </nav>
-        <center>
-            <a href="../index.php">
-                <img style="width: 80px;; padding: 5px;" src="../image/logo.png" width="150" >
-            </a>
-        </center>
-
-    </header>
+        </header>
+           
 </body>
 
 </html>

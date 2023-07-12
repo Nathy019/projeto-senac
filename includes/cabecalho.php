@@ -16,7 +16,6 @@
 <body style="background: black; color:white; font-family: Arial;">
     <header>
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
-
             <div class="container-fluid">
                 <div class="collapse navbar-collapse " id="navbarNavAltMarkup">
                     <div class="navbar-nav ">
@@ -34,7 +33,7 @@
             <div class="row">
                 <div class="col text-center">
                     <a href="#">
-                        <img style="width: 80px; padding: 5px;" src="../imagem/logo.png" width="150">
+                        <img style="width: 80px; padding: 5px;" src="imagem/logo.png" width="150">
                     </a>
                     <h2>DAANIEL</h2>
                 </div>

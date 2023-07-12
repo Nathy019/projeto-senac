@@ -15,16 +15,16 @@
 
 <body style="background: black; color:white; font-family: Arial;">
     <header>
-        <nav class="navbar navbar-expand-lg bg-body-tertiary">
-            <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg bg-body-tertiary ">
+            <div class="container-fluid mx-auto p-2">
                 <div class="collapse navbar-collapse " id="navbarNavAltMarkup">
-                    <div class="navbar-nav ">
+                    <div class="navbar-nav">
                         <a class="nav-link active" aria-current="page" href="#">Home</a>
                         <a class="nav-link" href="#">Portfólio</a>
                         <a class="nav-link" href="#">Quem Somos</a>
                         <a class="nav-link" href="#">Materiais</a>
                         <a class="nav-link" href="#">Biosegurança</a>
-                        <a class="nav-link" href="#">Contato</a>
+                        <a class="nav-link " href="#">Contato</a>
                     </div>
                 </div>
             </div>
@@ -33,7 +33,7 @@
             <div class="row">
                 <div class="col text-center">
                     <a href="#">
-                        <img style="width: 80px; padding: 5px;" src="imagem/logo.png" width="150">
+                        <img style="width: 80px; padding:5px;" src="imagem/logo.png" width="150">
                     </a>
                     <h2>DAANIEL</h2>
                 </div>
@@ -41,6 +41,7 @@
         </div>
     </header>
 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js" integrity="sha384-fbbOQedDUMZZ5KreZpsbe1LCZPVmfTnH7ois6mU1QK+m14rQ1l2bGBq41eYeM/fS" crossorigin="anonymous"></script>
 
 </body>
 

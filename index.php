@@ -61,12 +61,108 @@ include "./includes/cabecalho.php"
 <!-- Fim da parte da historia dele -->
 
 <!-- começo do portifolio -->
-<div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
-    <img src="imagem/tatu1.jpg" class="card-img-top" alt="...">
-    <div class="card-body">
-        <h5 class="card-title text-center">Primeira foto</h5>
-        <a href="portifolio/foto1.php" class="btn btn-primary">VER DESCRIÇÃO</a>
+<div class="card-group">
+    <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
+        <img src="imagem/tatu1.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title text-center">Primeira foto</h5>
+            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+        </div>
     </div>
+
+    <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
+        <img src="imagem/tatu2.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title text-center">Segunda foto</h5>
+            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+        </div>
+    </div>
+    <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
+        <img src="imagem/tatu3.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title text-center">Terceira foto</h5>
+            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+        </div>
+    </div>
+
+    <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
+        <img src="imagem/tatu4.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title text-center">Quarta foto</h5>
+            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+        </div>
+    </div>
+</div>
+</div>
+<div class="card-group">
+    <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
+        <img src="imagem/tatu5.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title text-center">Quinta foto</h5>
+            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+        </div>
+    </div>
+
+    <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
+        <img src="imagem/tatucop6.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title text-center">Sexta foto</h5>
+            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+        </div>
+    </div>
+    <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
+        <img src="imagem/tatu7.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title text-center">Setima foto</h5>
+            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+        </div>
+    </div>
+    <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
+        <img src="imagem/tatu8.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title text-center">Oitava foto</h5>
+            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+        </div>
+    </div>
+</div>
+<div class="card-group">
+    <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
+        <img src="imagem/tatu9.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title text-center p-3">Nona foto</h5>
+            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+        </div>
+    </div>
+
+    <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
+        <img src="imagem/tatu10.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title text-center p-3">Decima foto</h5>
+            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+        </div>
+    </div>
+    <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
+        <img src="imagem/tatucop11.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title text-center">Decima primeria foto</h5>
+            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+        </div>
+    </div>
+    <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
+        <img src="imagem/tatucop12.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title text-center">Decima Segunda foto</h5>
+            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+        </div>
+    </div>
+    <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
+        <img src="imagem/tatucop13.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title text-center">Decima Terceira foto</h5>
+            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+        </div>
+    </div>
+    
 </div>
 <!--
 fazendo cards tematicos com o portifolio dele e colocando um botão e na hora que clicar aparecer uma aba de notifição com a legenda da foto

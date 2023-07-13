@@ -14,22 +14,22 @@
 </head>
 
 <body style="background: black; color:white; font-family: Arial;">
-    <header>
-        <nav class="navbar navbar-expand-lg bg-body-tertiary ">
-            <div class="container-fluid mx-auto p-2">
-                <div class="collapse navbar-collapse " id="navbarNavAltMarkup">
-                    <div class="navbar-nav">
+    <header class=" ">
+        <nav class="navbar navbar-expand-lg bg-light text-dark" style="opacity: 0.7;">
+            <div class="container-fluid mx-auto p-2 ">
+                <div class="collapse navbar-collapse text-secundary " id="navbarNavAltMarkup">
+                    <div class="navbar-nav m-auto">
                         <a class="nav-link active" aria-current="page" href="#">Home</a>
                         <a class="nav-link" href="#">Portfólio</a>
                         <a class="nav-link" href="#">Quem Somos</a>
                         <a class="nav-link" href="#">Materiais</a>
                         <a class="nav-link" href="#">Biosegurança</a>
-                        <a class="nav-link " href="#">Contato</a>
+                        <a class="nav-link" href="#">Contato</a>
                     </div>
                 </div>
             </div>
         </nav>
-        <div class="container m-2">
+        <div class="container m-auto">
             <div class="row">
                 <div class="col text-center">
                     <a href="#">

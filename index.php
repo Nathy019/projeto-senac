@@ -66,7 +66,7 @@ include "./includes/cabecalho.php"
         <img src="imagem/tatu1.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title text-center">Primeira foto</h5>
-            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#JanelaModal0">VER DETALHES</button>
         </div>
     </div>
 
@@ -74,14 +74,14 @@ include "./includes/cabecalho.php"
         <img src="imagem/tatu2.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title text-center">Segunda foto</h5>
-            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#JanelaModal1">VER DETALHES</button>
         </div>
     </div>
     <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
         <img src="imagem/tatu3.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title text-center">Terceira foto</h5>
-            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+            <a href="#" class="btn btn-outline-secondary">VER DESCRIÇÃO</a>
         </div>
     </div>
 
@@ -89,7 +89,7 @@ include "./includes/cabecalho.php"
         <img src="imagem/tatu4.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title text-center">Quarta foto</h5>
-            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+            <a href="#" class="btn btn-outline-secondary">VER DESCRIÇÃO</a>
         </div>
     </div>
 </div>
@@ -99,7 +99,7 @@ include "./includes/cabecalho.php"
         <img src="imagem/tatu5.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title text-center">Quinta foto</h5>
-            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+            <a href="#" class="btn btn-outline-secondary">VER DESCRIÇÃO</a>
         </div>
     </div>
 
@@ -107,21 +107,21 @@ include "./includes/cabecalho.php"
         <img src="imagem/tatucop6.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title text-center">Sexta foto</h5>
-            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+            <a href="#" class="btn btn-outline-secondary">VER DESCRIÇÃO</a>
         </div>
     </div>
     <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
         <img src="imagem/tatu7.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title text-center">Setima foto</h5>
-            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+            <a href="#" class="btn btn-outline-secondary">VER DESCRIÇÃO</a>
         </div>
     </div>
     <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
         <img src="imagem/tatu8.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title text-center">Oitava foto</h5>
-            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+            <a href="#" class="btn btn-outline-secondary">VER DESCRIÇÃO</a>
         </div>
     </div>
 </div>
@@ -130,42 +130,75 @@ include "./includes/cabecalho.php"
         <img src="imagem/tatu9.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title text-center p-3">Nona foto</h5>
-            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+            <a href="#" class="btn btn-outline-secondary">VER DESCRIÇÃO</a>
         </div>
     </div>
-
     <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
         <img src="imagem/tatu10.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title text-center p-3">Decima foto</h5>
-            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+            <a href="#" class="btn btn-outline-secondary">VER DESCRIÇÃO</a>
         </div>
     </div>
     <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
         <img src="imagem/tatucop11.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title text-center">Decima primeria foto</h5>
-            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+            <a href="#" class="btn btn-outline-secondary">VER DESCRIÇÃO</a>
         </div>
     </div>
     <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
         <img src="imagem/tatucop12.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title text-center">Decima Segunda foto</h5>
-            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+            <a href="#" class="btn btn-outline-secondary">VER DESCRIÇÃO</a>
         </div>
     </div>
     <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
         <img src="imagem/tatucop13.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title text-center">Decima Terceira foto</h5>
-            <a href="#" class="btn btn-primary">VER DESCRIÇÃO</a>
+            <a href="#" class="btn btn-outline-secondary">VER DESCRIÇÃO</a>
         </div>
     </div>
-    
+</div>
+<div id="JanelaModal0" class="modal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <h2>Primeria foto</h2>
+                <button type="button" class="btn btn-close" databs-dismiss="modal"></button>
+            </div>
+
+            <div class="modal-body">
+                <p>fgjaskgnsamdgkashngjakdghjghdklhg</p>
+            </div>
+
+            <div class="modal-footer">
+            <button type="button" class="btn btn-danger" data-bs-dismiss="modal">FECHAR</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="JanelaModal1" class="modal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Primeria foto</h2>
+                <button type="button" class="btn btn-close" databs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <p>fgjaskgnsamdgkashngjakdghjghdklhg</p>
+            </div>
+            <div class="modal-footer">
+            <button type="button" class="btn btn-danger" data-bs-dismiss="modal">FECHAR</button>
+            </div>
+        </div>
+    </div>
 </div>
 <!--
-fazendo cards tematicos com o portifolio dele e colocando um botão e na hora que clicar aparecer uma aba de notifição com a legenda da foto
+Arumar os carde de ver detalhes 
 
 colocar dois cards com a bio e esquipamentos que ele utiliza e colocando uma legenda
 

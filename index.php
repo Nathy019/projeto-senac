@@ -54,8 +54,8 @@ include "./includes/cabecalho.php"
                     a começar na área, hoje fazem 2 anos que tatuo,
                     comecei por hobby e consequentemente
                     hoje é de onde vem minha maior renda.</p>
-                    <a href="#" class="m-3 "><img src="imagem/zap.png" style="width: 50px;"></a>
-                    <a href="#" class=" m-2 "><img src="imagem/insta.png" style="width: 50px;"></a>
+                <a href="#" class="m-3 "><img src="imagem/zap.png" style="width: 50px;"></a>
+                <a href="#" class=" m-2 "><img src="imagem/insta.png" style="width: 50px;"></a>
             </div>
         </div>
     </div>
@@ -65,6 +65,55 @@ include "./includes/cabecalho.php"
 <?php
 include "./includes/modal.php"
 ?>
+<div class="card-group">
+    <div class="card text-bg-secondary bg-opacity-10 m-5 p-2 mx-auto p-2" style="max-width: 540px;">
+        <div class="row g-0">
+            <div class="col-md-4">
+                <img src="imagem/bio2.png" class="img-fluid rounded-start" alt="...">
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-title">BIOSEGURANÇA</h5>
+                    <p class="card-text">Plático filme (pvc) <br>
+                        Papel toalha<br>
+                        Protetor de maquina<br>
+                        Protetor de clipcord<br>
+                        Bandagem<br>
+                        Lâmina de barbear<br>
+                        Copo descartavel<br>
+                        Álcool<br>
+                        Espuma de limpeza para pele<br>
+                        Abaixador de lingua<br>
+                        Sealing finalizador<br></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="max-width: 540px;">
+        <div class="row g-0">
+            <div class="col-md-4">
+                <img src="imagem/luva.png" class="img-fluid rounded-start " alt="...">
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-title">MATERIAIS</h5>
+                    <p class="card-text">Maquina<br>
+                        Fonte <br>
+                        Cabo<br>
+                        Pedal <br>
+                        Maca Apoio de braço/perna <br>
+                        Caneta freehand<br>
+                        Tablet/ipad<br>
+                        Impressora<br>
+                        Batoque<br>
+                        Transfer<br>
+                        Carbono <br>
+                        Papel vegetal.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <!--
 
 

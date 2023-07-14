@@ -1,7 +1,8 @@
 <!-- começo card do portifolio -->
 <div class="col p-2">
-    <h2 class="text-center">PORTIFOLIO</h2>
+   <a href="#body" class="link-light link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0"  > <h2 class="text-center">PORTIFOLIO</h2></a>
 </div>
+
 <div class="card-group" id="portfolio">
     <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
         <img src="imagem/tatu1.jpg" class="card-img-top" alt="...">
@@ -133,7 +134,7 @@
 
 <!-- começo janela modal -->
 <!-- janela modal foto 1 -->
-<div id="JanelaModal0" class="modal">
+<div id="JanelaModal0" class="modal ">
     <div class="modal-dialog">
         <div class="modal-content text-dark">
             <div class="modal-header">
@@ -141,9 +142,8 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-            <img src="imagem/tatu1.jpg" class="card-img-top" alt="...">
-                <p>Aquela corzinha só pra dar o charme ⭐
-                    Gosta de algum personagem? Vamos tatuar! Me chame na DM ou pelo link na bio e faça seu orçamento! 🔥</p>
+                <img src="imagem/tatu1.jpg" class="card-img-top" alt="...">
+                <p>Aquela corzinha só pra dar o charme ⭐</p>
             </div>
             <div class="modal-footer">
                 <a href="https://www.instagram.com/p/CkyQGTPOpht/?img_index=1" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
@@ -161,7 +161,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-            <img src="imagem/tatu2.jpg" class="card-img-top" alt="...">
+                <img src="imagem/tatu2.jpg" class="card-img-top" alt="...">
                 <p>Mariposa 🖤</p>
             </div>
             <div class="modal-footer">
@@ -180,7 +180,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-            <img src="imagem/tatu3.jpg" class="card-img-top" alt="...">
+                <img src="imagem/tatu3.jpg" class="card-img-top" alt="...">
 
                 <p>Aquele blackzinho 🖤</p>
             </div>
@@ -200,7 +200,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-            <img src="imagem/tatu4.jpg" class="card-img-top" alt="...">
+                <img src="imagem/tatu4.jpg" class="card-img-top" alt="...">
 
                 <p>Bem darkzinha 🖤</p>
             </div>
@@ -220,7 +220,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-            <img src="imagem/tatu5.jpg" class="card-img-top" alt="...">
+                <img src="imagem/tatu5.jpg" class="card-img-top" alt="...">
 
                 <p>Vegetto 🔥</p>
             </div>
@@ -240,7 +240,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-            <img src="imagem/tatucop6.jpg" class="card-img-top" alt="...">
+                <img src="imagem/tatucop6.jpg" class="card-img-top" alt="...">
 
                 <p>Mais uma braba🔥</p>
             </div>
@@ -260,7 +260,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-            <img src="imagem/tatu7.jpg" class="card-img-top" alt="...">
+                <img src="imagem/tatu7.jpg" class="card-img-top" alt="...">
 
                 <p>Oldzinha 🗡</p>
             </div>
@@ -280,7 +280,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-            <img src="imagem/tatu8.jpg" class="card-img-top" alt="...">
+                <img src="imagem/tatu8.jpg" class="card-img-top" alt="...">
                 <p>Sesshomaru 🥋</p>
             </div>
             <div class="modal-footer">
@@ -299,7 +299,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-            <img src="imagem/tatu9.jpg" class="card-img-top" alt="...">
+                <img src="imagem/tatu9.jpg" class="card-img-top" alt="...">
                 <p>O Demônio da Vila da Areia 👹</p>
             </div>
             <div class="modal-footer">
@@ -318,7 +318,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-            <img src="imagem/tatu10.jpg" class="card-img-top" alt="...">
+                <img src="imagem/tatu10.jpg" class="card-img-top" alt="...">
                 <p>Predator 👽</p>
             </div>
             <div class="modal-footer">
@@ -337,7 +337,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-            <img src="imagem/tatucop11.jpg" class="card-img-top" alt="...">
+                <img src="imagem/tatucop11.jpg" class="card-img-top" alt="...">
 
                 <p>Samurai 👹</p>
             </div>
@@ -357,7 +357,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-            <img src="imagem/tatucop12.jpg" class="card-img-top" alt="...">
+                <img src="imagem/tatucop12.jpg" class="card-img-top" alt="...">
 
                 <p>E essa braba aqui?</p>
             </div>
@@ -377,7 +377,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-            <img src="imagem/tatucop13.jpg" class="card-img-top" alt="...">
+                <img src="imagem/tatucop13.jpg" class="card-img-top" alt="...">
 
                 <p>Aquela bem otaku</p>
             </div>

@@ -13,15 +13,15 @@
     <!-- meu estilo.css -->
 </head>
 
-<body style="background: black; color:white; font-family: Arial; font-size: 20px;">
+<body id="body" style="background: black; color:white; font-family: Arial; font-size: 20px;">
     <header >
         <nav class="navbar navbar-expand-lg navbar-expand-sm " data-bs-theme="dark">
             <div class="container-fluid mx-auto p-2 ">
                 <div class="collapse navbar-collapse " id="navbarNavAltMarkup">
                     <div class="navbar-nav m-auto text-danger">
                         <a class="nav-link" href="#portfolio">Portfólio</a>
-                        <a class="nav-link" href="#">Quem Somos</a>
-                        <a class="nav-link" href="#">Materiais</a>
+                        <a class="nav-link" href="#historia">Biografia</a>
+                        <a class="nav-link" href="#material">Materiais</a>
                         <a class="nav-link" href="#">Biosegurança</a>
                         <a class="nav-link active" href="contato.php">Contato</a>
                     </div>

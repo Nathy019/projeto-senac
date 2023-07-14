@@ -19,7 +19,7 @@
             <div class="container-fluid mx-auto p-2 ">
                 <div class="collapse navbar-collapse " id="navbarNavAltMarkup">
                     <div class="navbar-nav m-auto text-danger">
-                        <a class="nav-link" href="#">Portfólio</a>
+                        <a class="nav-link" href="#portfolio">Portfólio</a>
                         <a class="nav-link" href="#">Quem Somos</a>
                         <a class="nav-link" href="#">Materiais</a>
                         <a class="nav-link" href="#">Biosegurança</a>

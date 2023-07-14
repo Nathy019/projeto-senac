@@ -1,8 +1,8 @@
-<!-- ARRUMAR AS JANELAS MODAL -->
-
-
 <!-- começo card do portifolio -->
-<div class="card-group">
+<div class="col p-2">
+    <h2 class="text-center">PORTIFOLIO</h2>
+</div>
+<div class="card-group" id="portfolio">
     <div class="card text-bg-secondary bg-opacity-10 m-5 p-2" style="width: 18rem;">
         <img src="imagem/tatu1.jpg" class="card-img-top" alt="...">
         <div class="card-body">
@@ -141,10 +141,12 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-                <p>fgjaskgnsamdgkashngjakdghjghdklhg</p>
+            <img src="imagem/tatu1.jpg" class="card-img-top" alt="...">
+                <p>Aquela corzinha só pra dar o charme ⭐
+                    Gosta de algum personagem? Vamos tatuar! Me chame na DM ou pelo link na bio e faça seu orçamento! 🔥</p>
             </div>
             <div class="modal-footer">
-                <a href="#" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
+                <a href="https://www.instagram.com/p/CkyQGTPOpht/?img_index=1" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
                 <button type="button" class="btn btn-danger" data-bs-dismiss="modal">FECHAR</button>
             </div>
         </div>
@@ -159,10 +161,11 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-                <p>fgjaskgnsamdgkashngjakdghjghdklhg</p>
+            <img src="imagem/tatu2.jpg" class="card-img-top" alt="...">
+                <p>Mariposa 🖤</p>
             </div>
             <div class="modal-footer">
-                <a href="#" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
+                <a href="https://www.instagram.com/p/CigE0coMyPa/" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
                 <button type="button" class="btn btn-danger" data-bs-dismiss="modal">FECHAR</button>
             </div>
         </div>
@@ -177,10 +180,12 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-                <p>fgjaskgnsamdgkashngjakdghjghdklhg</p>
+            <img src="imagem/tatu3.jpg" class="card-img-top" alt="...">
+
+                <p>Aquele blackzinho 🖤</p>
             </div>
             <div class="modal-footer">
-                <a href="#" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
+                <a href="https://www.instagram.com/p/Cj1Dedcsc-B/" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
                 <button type="button" class="btn btn-danger" data-bs-dismiss="modal">FECHAR</button>
             </div>
         </div>
@@ -191,14 +196,16 @@
     <div class="modal-dialog">
         <div class="modal-content text-dark">
             <div class="modal-header">
-                <h2 class="modal-title"> foto</h2>
+                <h2 class="modal-title">Quarta foto</h2>
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-                <p>fgjaskgnsamdgkashngjakdghjghdklhg</p>
+            <img src="imagem/tatu4.jpg" class="card-img-top" alt="...">
+
+                <p>Bem darkzinha 🖤</p>
             </div>
             <div class="modal-footer">
-                <a href="#" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
+                <a href="https://www.instagram.com/p/CkgKvgBMmBC/" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
                 <button type="button" class="btn btn-danger" data-bs-dismiss="modal">FECHAR</button>
             </div>
         </div>
@@ -209,14 +216,16 @@
     <div class="modal-dialog">
         <div class="modal-content text-dark">
             <div class="modal-header">
-                <h2 class="modal-title"> foto</h2>
+                <h2 class="modal-title">Quinta foto</h2>
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-                <p>fgjaskgnsamdgkashngjakdghjghdklhg</p>
+            <img src="imagem/tatu5.jpg" class="card-img-top" alt="...">
+
+                <p>Vegetto 🔥</p>
             </div>
             <div class="modal-footer">
-                <a href="#" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
+                <a href="https://www.instagram.com/p/CkZHVOUMHa_/" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
                 <button type="button" class="btn btn-danger" data-bs-dismiss="modal">FECHAR</button>
             </div>
         </div>
@@ -227,14 +236,16 @@
     <div class="modal-dialog">
         <div class="modal-content text-dark">
             <div class="modal-header">
-                <h2 class="modal-title"> foto</h2>
+                <h2 class="modal-title">Sexta foto</h2>
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-                <p>fgjaskgnsamdgkashngjakdghjghdklhg</p>
+            <img src="imagem/tatucop6.jpg" class="card-img-top" alt="...">
+
+                <p>Mais uma braba🔥</p>
             </div>
             <div class="modal-footer">
-                <a href="#" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
+                <a href="https://www.instagram.com/p/Car8Vxdugoi/" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
                 <button type="button" class="btn btn-danger" data-bs-dismiss="modal">FECHAR</button>
             </div>
         </div>
@@ -249,10 +260,12 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-                <p>fgjaskgnsamdgkashngjakdghjghdklhg</p>
+            <img src="imagem/tatu7.jpg" class="card-img-top" alt="...">
+
+                <p>Oldzinha 🗡</p>
             </div>
             <div class="modal-footer">
-                <a href="#" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
+                <a href="https://www.instagram.com/p/CkeQsfOsjOJ/" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
                 <button type="button" class="btn btn-danger" data-bs-dismiss="modal">FECHAR</button>
             </div>
         </div>
@@ -267,10 +280,11 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-                <p>fgjaskgnsamdgkashngjakdghjghdklhg</p>
+            <img src="imagem/tatu8.jpg" class="card-img-top" alt="...">
+                <p>Sesshomaru 🥋</p>
             </div>
             <div class="modal-footer">
-                <a href="#" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
+                <a href="https://www.instagram.com/p/CiVxnzKMky3/" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
                 <button type="button" class="btn btn-danger" data-bs-dismiss="modal">FECHAR</button>
             </div>
         </div>
@@ -285,10 +299,11 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-                <p>fgjaskgnsamdgkashngjakdghjghdklhg</p>
+            <img src="imagem/tatu9.jpg" class="card-img-top" alt="...">
+                <p>O Demônio da Vila da Areia 👹</p>
             </div>
             <div class="modal-footer">
-                <a href="#" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
+                <a href="https://www.instagram.com/p/Ci3RiOrM7HS/?img_index=2" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
                 <button type="button" class="btn btn-danger" data-bs-dismiss="modal">FECHAR</button>
             </div>
         </div>
@@ -303,10 +318,11 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-                <p>fgjaskgnsamdgkashngjakdghjghdklhg</p>
+            <img src="imagem/tatu10.jpg" class="card-img-top" alt="...">
+                <p>Predator 👽</p>
             </div>
             <div class="modal-footer">
-                <a href="#" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
+                <a href="https://www.instagram.com/p/CiSjGB-MgfS/" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
                 <button type="button" class="btn btn-danger" data-bs-dismiss="modal">FECHAR</button>
             </div>
         </div>
@@ -317,14 +333,16 @@
     <div class="modal-dialog">
         <div class="modal-content text-dark">
             <div class="modal-header">
-                <h2 class="modal-title"> foto</h2>
+                <h2 class="modal-title">Decima primeira foto</h2>
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-                <p>fgjaskgnsamdgkashngjakdghjghdklhg</p>
+            <img src="imagem/tatucop11.jpg" class="card-img-top" alt="...">
+
+                <p>Samurai 👹</p>
             </div>
             <div class="modal-footer">
-                <a href="#" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
+                <a href="https://www.instagram.com/p/CdI9VTxMo31/?img_index=1" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
                 <button type="button" class="btn btn-danger" data-bs-dismiss="modal">FECHAR</button>
             </div>
         </div>
@@ -335,14 +353,16 @@
     <div class="modal-dialog">
         <div class="modal-content text-dark">
             <div class="modal-header">
-                <h2 class="modal-title"> foto</h2>
+                <h2 class="modal-title">Decima segunda foto</h2>
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-                <p>fgjaskgnsamdgkashngjakdghjghdklhg</p>
+            <img src="imagem/tatucop12.jpg" class="card-img-top" alt="...">
+
+                <p>E essa braba aqui?</p>
             </div>
             <div class="modal-footer">
-                <a href="#" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
+                <a href="https://www.instagram.com/p/CbvrMqsOnWo/" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
                 <button type="button" class="btn btn-danger" data-bs-dismiss="modal">FECHAR</button>
             </div>
         </div>
@@ -353,14 +373,16 @@
     <div class="modal-dialog">
         <div class="modal-content text-dark">
             <div class="modal-header">
-                <h2 class="modal-title"> foto</h2>
+                <h2 class="modal-title"> Decima terceira foto</h2>
                 <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-                <p>fgjaskgnsamdgkashngjakdghjghdklhg</p>
+            <img src="imagem/tatucop13.jpg" class="card-img-top" alt="...">
+
+                <p>Aquela bem otaku</p>
             </div>
             <div class="modal-footer">
-                <a href="#" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
+                <a href="https://www.instagram.com/p/Ca8CiZ9PqBb/" target="_blank"><img src="imagem/insta.png" style="width: 30px;"></a>
                 <button type="button" class="btn btn-danger" data-bs-dismiss="modal">FECHAR</button>
             </div>
         </div>

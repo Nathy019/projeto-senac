@@ -13,9 +13,9 @@
     <!-- meu estilo.css -->
 </head>
 
-<body style="background: black; color:white; font-family: Arial;">
-    <header class=" ">
-        <nav class="navbar navbar-expand-lg bg-light " style="opacity: 0.7;">
+<body style="background: black; color:white; font-family: Arial; font-size: 20px;">
+    <header >
+        <nav class="navbar navbar-expand-lg navbar-expand-sm " data-bs-theme="dark">
             <div class="container-fluid mx-auto p-2 ">
                 <div class="collapse navbar-collapse " id="navbarNavAltMarkup">
                     <div class="navbar-nav m-auto text-danger">

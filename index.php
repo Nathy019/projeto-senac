@@ -54,22 +54,25 @@ include "./includes/cabecalho.php"
                     a começar na área, hoje fazem 2 anos que tatuo,
                     comecei por hobby e consequentemente
                     hoje é de onde vem minha maior renda.</p>
-                <a href="#" class="m-3 "><img src="imagem/zap.png" style="width: 50px;"></a>
-                <a href="#" class=" m-2 "><img src="imagem/insta.png" style="width: 50px;"></a>
+                <a href="https://api.whatsapp.com/send?phone=5519994412860&fbclid=PAAaZhRJT6BwdZ5bT99kfirR_0fhjNH9xlZMsoIGKzUdw3mrQseFQLCteY6Jk" class="m-3 "><img src="imagem/zap.png" style="width: 50px;"></a>
+                <a href="https://www.instagram.com/daanihell.ttt/" class=" m-2 "><img src="imagem/insta.png" style="width: 50px;"></a>
             </div>
         </div>
     </div>
 </div>
 <!-- Fim da parte da historia dele -->
 
+<!-- inclui os cards do portfolio -->
 <?php
 include "./includes/modal.php"
 ?>
+
+<!-- começo dos cards de biosegurança e materiais -->
 <div class="card-group">
     <div class="card text-bg-secondary bg-opacity-10 m-5 p-2 mx-auto p-2" style="max-width: 540px;">
         <div class="row g-0">
             <div class="col-md-4">
-                <img src="imagem/bio2.png" class="img-fluid rounded-start" alt="...">
+                <img src="imagem/bioo.png" class="img-fluid rounded-start" alt="...">
             </div>
             <div class="col-md-8">
                 <div class="card-body">
@@ -114,10 +117,9 @@ include "./includes/modal.php"
         </div>
     </div>
 </div>
+<!-- fim dos cards -->
+
 <!--
-
-
-colocar dois cards com a bio e esquipamentos que ele utiliza e colocando uma legenda
 
 arrumar o footer deixar o mapa do local colocar o contato de telefone e as formas de pagamento 
 

@@ -76,7 +76,7 @@ include "./includes/modal.php"
             </div>
             <div class="col-md-8">
                 <div class="card-body">
-                    <h5 class="card-title">BIOSEGURANÇA</h5>
+                    <h5 class="card-title">BIOSSEGURANÇA</h5>
                     <p class="card-text">Plático filme (pvc) <br>
                         Papel toalha<br>
                         Protetor de maquina<br>

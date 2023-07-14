@@ -19,12 +19,11 @@
             <div class="container-fluid mx-auto p-2 ">
                 <div class="collapse navbar-collapse " id="navbarNavAltMarkup">
                     <div class="navbar-nav m-auto text-danger">
-                        <a class="nav-link active" aria-current="page" href="#">Home</a>
                         <a class="nav-link" href="#">Portfólio</a>
                         <a class="nav-link" href="#">Quem Somos</a>
                         <a class="nav-link" href="#">Materiais</a>
                         <a class="nav-link" href="#">Biosegurança</a>
-                        <a class="nav-link" href="#">Contato</a>
+                        <a class="nav-link active" href="contato.php">Contato</a>
                     </div>
                 </div>
             </div>
@@ -32,7 +31,7 @@
         <div class="container m-auto">
             <div class="row">
                 <div class="col text-center">
-                    <a href="#">
+                    <a href="index.php">
                         <img style="width: 80px; padding:5px;" src="imagem/logo.png" width="150">
                     </a>
                     <h2>DAANIEL</h2>
